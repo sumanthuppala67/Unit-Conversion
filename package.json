@@ -2,7 +2,7 @@
   "name": "unit-conversion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/unit-conversion",
+  "homepage": "https://sumanthuppala67.github.io/Unit-Conversion/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
