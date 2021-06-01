@@ -59,7 +59,7 @@ const App = () => {
 
     console.log("Comparing", expectedTarget, studentResponse);
 
-    if (Number(studentResponse) === expectedTarget) {
+    if (Number(Number(studentResponse).toFixed(1)) === expectedTarget) {
       setOutput("correct");
     } else {
       setOutput("incorrect");
